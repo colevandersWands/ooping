@@ -10,6 +10,7 @@ apps = data + user interaction
 
 objects enable this in a nice bundle
 
+```
 "
   you will often be told at the beginning of your learning to think of oop as things in real life: a car with doors & fuel levels, a person with a name and an age.  
   This is not quite accurate and engraining this understanding will make it difficult for you to make the transition from solving simple challenges to designing your own oop programs.
@@ -32,3 +33,5 @@ objects enable this in a nice bundle
 variables/data structures are modified in the scope/context where they are created
   oop lives data in the context of an object
   fp lives data in the global context
+
+```
