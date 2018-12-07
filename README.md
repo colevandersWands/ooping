@@ -30,6 +30,8 @@ objects enable this in a nice bundle
     -> they will inherit methods from a shared prototype
 "
 
+https://link.springer.com/article/10.3758/BF03193796
+
 variables/data structures are modified in the scope/context where they are created
   oop lives data in the context of an object
   fp lives data in the global context
